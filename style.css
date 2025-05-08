@@ -87,7 +87,7 @@ section h1 {
 
 .projects {
     color: white;
-    background: black;
+    background: rgb(145, 255, 0);
 }
 
 .github:hover {
